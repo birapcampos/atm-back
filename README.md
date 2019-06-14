@@ -1,4 +1,5 @@
 Interview GSW
+
 Trata-se de uma aplicação que simula a entrega de notas quando um cliente efetua um saque em um caixa eletrônico.
 
 Requisitos
