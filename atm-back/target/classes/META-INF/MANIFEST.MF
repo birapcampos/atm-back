@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: atm-back
+Implementation-Version: 2.1.3.RELEASE
+Built-By: birap
+Implementation-Vendor-Id: com.arm.atm
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/atm-back
+Created-By: Maven Integration for Eclipse
+
